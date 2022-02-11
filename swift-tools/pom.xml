@@ -5,7 +5,7 @@
     <parent>
         <artifactId>swift</artifactId>
         <groupId>com.luastar</groupId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.1.RELEASE</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -13,14 +13,14 @@
     <version>${swift.tools.version}</version>
 
     <properties>
-        <swift.tools.version>1.0.4-SNAPSHOT</swift.tools.version>
+        <swift.tools.version>1.0.4.RELEASE</swift.tools.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>com.luastar</groupId>
             <artifactId>swift-base</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
+            <version>1.0.1.RELEASE</version>
         </dependency>
         <!-- dbUtils begin -->
         <dependency>
